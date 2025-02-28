@@ -3,17 +3,18 @@
  */
 package cuentas.clientes;
 
+/**
+     * @author José Alberto Torresano
+     * @version 1.0
+     * @since 28-Feb-2025
+     */
 public class Main {
 
     /*
     Tarea de Entornos de Desarrollo
     */
     
-    /**
-     * @author José Alberto Torresano
-     * @version 1.0
-     * @since 28-Feb-2025
-     */
+    
     public static void main(String[] args) {
         
         
