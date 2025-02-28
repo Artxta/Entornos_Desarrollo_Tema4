@@ -3,6 +3,9 @@ package cuentas.clientes;
 public class Main {
 
     public static void main(String[] args) {
+        
+        System.out.println("Programa del Banco");
+        System.out.println("****************************");
         operativa_cuenta(0);
     }
 
